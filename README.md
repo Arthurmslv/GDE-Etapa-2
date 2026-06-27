@@ -6,4 +6,4 @@ main_ui.py - Interface principal do sistema.
 
 task_ui.py - Interface para adicionar/editar tarefa ou atividade.
 
-Libs usadas: PyQt5. Para baixar ela use: "pip install PyQt5".
+Libs usadas: PyQt5 e sqlite3
